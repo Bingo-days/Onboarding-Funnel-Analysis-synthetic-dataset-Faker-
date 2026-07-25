@@ -14,6 +14,7 @@ A product analytics case study analyzing user drop-off across a 4-stage onboardi
 **Root Cause:** Analysis of explicit failure logs vs. drop-offs reveals that **abandonment during ID upload** (friction/latency) accounts for the vast majority of lost users, rather than technical document rejection.
 **Product Recommendation:** Proposed a **"Preview Mode"** during ID processing to keep users engaged with core value props (FX rate tracking, vault previews) while identity checks complete asynchronously.
 
+**[Click Here to View the Interactive Tableau Dashboard](https://public.tableau.com/views/YOUR_DASHBOARD_NAME/Dashboard1https://public.tableau.com/views/Revolut-Onboarding-Funnel-Analysis_/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**
 
 # Project Architecture & Data Pipeline
 ```
